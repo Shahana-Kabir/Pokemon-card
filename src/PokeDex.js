@@ -16,7 +16,7 @@ class PokeDex extends Component{
     ]
   };
   render(){
-    console.log(this.props.pokemon); 
+    // console.log(this.props.pokemon); 
     return (
       <div className = "Pokedex">
         <h1>Pokedoxe</h1>
